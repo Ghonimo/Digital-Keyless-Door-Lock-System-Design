@@ -20,8 +20,26 @@ The SecurePin-KeylessLock is a state-of-the-art digital door lock system develop
 - Safe, hand-solderable components
 - Two-layer PCB design
 
+## Block Diagram
+![Block Diagram](./Z-Misc/Block-Diagram.png)
+
+## Schematics
+![Schematics](./Z-Misc/Schematics.jpg)
+
+## PCB Layout
+![Layout](./Z-Misc/Layout.jpg)
+
+## Prototype
+![Prototype](./Z-Misc/Prototype.jpg)
+
+## Assembly Process
+![Putting Things Together](./Z-Misc/putting_together.png)
+
+## Testing Phase
+![Testing1](./testing.jpg)
+![Testing](./Screen.jpeg)
+
 ## Possible Enhancements
-- Enclosure packaging
 - Battery backup
 - Alarm/buzzer after failed attempts
 
