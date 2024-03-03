@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "Keyless_Door")(type "KiCad")(uri "$(KIPRJMOD)/Keyless_Door.pretty")(options "")(descr ""))
-)
